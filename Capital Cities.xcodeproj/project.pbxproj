@@ -12,6 +12,7 @@
 		5222A76227F41CA400E4C351 /* Capital_Cities.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5222A76027F41CA400E4C351 /* Capital_Cities.xcdatamodeld */; };
 		5222A76427F41CA500E4C351 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5222A76327F41CA500E4C351 /* Assets.xcassets */; };
 		5222A76727F41CA500E4C351 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5222A76527F41CA500E4C351 /* Main.storyboard */; };
+		5222A76F27F4AF3D00E4C351 /* Pin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5222A76E27F4AF3D00E4C351 /* Pin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5222A76327F41CA500E4C351 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5222A76627F41CA500E4C351 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5222A76827F41CA500E4C351 /* Capital_Cities.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Capital_Cities.entitlements; sourceTree = "<group>"; };
+		5222A76E27F4AF3D00E4C351 /* Pin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pin.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				5222A75C27F41CA400E4C351 /* AppDelegate.swift */,
 				5222A75E27F41CA400E4C351 /* ViewController.swift */,
+				5222A76E27F4AF3D00E4C351 /* Pin.swift */,
 				5222A76327F41CA500E4C351 /* Assets.xcassets */,
 				5222A76527F41CA500E4C351 /* Main.storyboard */,
 				5222A76827F41CA500E4C351 /* Capital_Cities.entitlements */,
@@ -137,6 +140,7 @@
 				5222A75F27F41CA400E4C351 /* ViewController.swift in Sources */,
 				5222A75D27F41CA400E4C351 /* AppDelegate.swift in Sources */,
 				5222A76227F41CA400E4C351 /* Capital_Cities.xcdatamodeld in Sources */,
+				5222A76F27F4AF3D00E4C351 /* Pin.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
